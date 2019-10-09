@@ -29,7 +29,7 @@ fi
 
  echo "[✔] Installing ...";
  echo "";
- git clone https://github.com/Manisso/wifisky.git /usr/share/doc/wifisky;
+ git clone https://github.com/404system/wifisky.git /usr/share/doc/wifisky;
  echo "#!/bin/bash 
  python /usr/share/doc/wifisky/wifisky.py" '${1+"$@"}' > wifisky;
  chmod +x wifisky;
