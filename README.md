@@ -13,6 +13,18 @@ This Tools is a Python script for pentesting wireless networks
 
 # Installation
 
+# Termux android
+# Akses Root here sudo 
+# pkg inst python1 && python2 && python3
+# pkg inst git
+# pkg inst bash
+# git clone https://github.com/404system/wifisky && cd wifisky
+# ls
+# tinggal pilih yang mana
+# sh install.sh
+# done ☺
+
+
 ## Installation [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
 
 ```bash
